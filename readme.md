@@ -1,4 +1,4 @@
-# Node.js Cluster Module Example
+# Node.js Cluster Module Learning
 
 To run the file just user node multicoreHttpServer.js
 No need to do npm init -y or npm i 
