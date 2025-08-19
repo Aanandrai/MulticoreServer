@@ -1,7 +1,7 @@
 # Node.js Cluster Module Learning
 
-To run the file just user **"node multicoreHttpServer.js"**
-No need to do **npm init -y** or **npm i** 
+To run the file just user **"node multicoreHttpServer.js"**  
+No need to do **npm init -y** or **npm i**   
 because The cluster module is a built-in Node.js module, which means it is available right out of the box with Node.js.
 
 
